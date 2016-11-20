@@ -1,0 +1,12 @@
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale\KeyLog_V1\bin\Debug\KeyLog_V1.exe.config
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale\KeyLog_V1\bin\Debug\KeyLog_V1.exe
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale\KeyLog_V1\bin\Debug\KeyLog_V1.pdb
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale\KeyLog_V1\obj\Debug\KeyLog_V1.csprojResolveAssemblyReference.cache
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale\KeyLog_V1\obj\Debug\KeyLog_V1.exe
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale\KeyLog_V1\obj\Debug\KeyLog_V1.pdb
+C:\Users\Ft\Desktop\Keylogger_Grayscale\KeyLog_V1\bin\Debug\KeyLog_V1.exe.config
+C:\Users\Ft\Desktop\Keylogger_Grayscale\KeyLog_V1\obj\Debug\KeyLog_V1.exe
+C:\Users\Ft\Desktop\Keylogger_Grayscale\KeyLog_V1\obj\Debug\KeyLog_V1.pdb
+C:\Users\Ft\Desktop\Keylogger_Grayscale\KeyLog_V1\bin\Debug\KeyLog_V1.exe
+C:\Users\Ft\Desktop\Keylogger_Grayscale\KeyLog_V1\bin\Debug\KeyLog_V1.pdb
+C:\Users\Ft\Desktop\Keylogger_Grayscale\KeyLog_V1\obj\Debug\KeyLog_V1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,27 @@
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale\CreateOwnKeylogger_GrayScale\bin\Debug\CreateOwnKeylogger_GrayScale.exe.config
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale\CreateOwnKeylogger_GrayScale\bin\Debug\CreateOwnKeylogger_GrayScale.exe
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale\CreateOwnKeylogger_GrayScale\bin\Debug\CreateOwnKeylogger_GrayScale.pdb
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.csprojResolveAssemblyReference.cache
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.Form1.resources
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.Properties.Resources.resources
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.csproj.GenerateResource.Cache
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.exe
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.pdb
+C:\Users\Ft\Desktop\Keylogger_Grayscale\CreateOwnKeylogger_GrayScale\bin\Debug\CreateOwnKeylogger_GrayScale.exe.config
+C:\Users\Ft\Desktop\Keylogger_Grayscale\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.exe
+C:\Users\Ft\Desktop\Keylogger_Grayscale\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.pdb
+C:\Users\Ft\Desktop\Keylogger_Grayscale\CreateOwnKeylogger_GrayScale\bin\Debug\CreateOwnKeylogger_GrayScale.exe
+C:\Users\Ft\Desktop\Keylogger_Grayscale\CreateOwnKeylogger_GrayScale\bin\Debug\CreateOwnKeylogger_GrayScale.pdb
+C:\Users\Ft\Desktop\Keylogger_Grayscale\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.csprojResolveAssemblyReference.cache
+C:\Users\Ft\Desktop\Keylogger_Grayscale\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.Form1.resources
+C:\Users\Ft\Desktop\Keylogger_Grayscale\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.Properties.Resources.resources
+C:\Users\Ft\Desktop\Keylogger_Grayscale\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.csproj.GenerateResource.Cache
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale V2\CreateOwnKeylogger_GrayScale\bin\Debug\CreateOwnKeylogger_GrayScale.exe.config
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale V2\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.exe
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale V2\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.pdb
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale V2\CreateOwnKeylogger_GrayScale\bin\Debug\CreateOwnKeylogger_GrayScale.exe
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale V2\CreateOwnKeylogger_GrayScale\bin\Debug\CreateOwnKeylogger_GrayScale.pdb
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale V2\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.csprojResolveAssemblyReference.cache
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale V2\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.Form1.resources
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale V2\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.Properties.Resources.resources
+C:\Users\Ft\Desktop\C#__\Keylogger_Grayscale V2\CreateOwnKeylogger_GrayScale\obj\Debug\CreateOwnKeylogger_GrayScale.csproj.GenerateResource.Cache
